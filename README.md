@@ -13,6 +13,7 @@ Me interesa especialmente comprender cómo funcionan los sistemas por dentro y c
 ## Sobre mí
 
 - 🎓 Estudiante de Ingeniería de Sistemas y Computación
+- 🔆 Estudiante de Tecnologia en ADSO
 - 🛠️ Técnico en Programación de Software
 - ☕ Actualmente aprendiendo **Java** desde los fundamentos
 - 🧠 Enfocado en lógica de programación, algoritmos y resolución de problemas
