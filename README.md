@@ -1,6 +1,6 @@
 # Daniel Barrientos
 
-### `dbarrientos-dev`
+### `DanielBarrientos727`
 
 Estudiante de **Ingeniería de Sistemas y Computación** y técnico en **Programación de Software**.
 
@@ -12,7 +12,7 @@ Me enfoco en fortalecer mis bases de **programación, lógica, algoritmos y desa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbarrientos-dev&layout=compact&langs_count=6&hide=html,css&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarrientos727&layout=compact&langs_count=6&hide=html,css&theme=transparent" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Me enfoco en fortalecer mis bases de **programación, lógica, algoritmos y desa
 
 ### Proyecto actual
 
-**[Java-Ejercicios-UQ](https://github.com/dbarrientos-dev/Java-Ejercicios-UQ)**
+**[Java-Ejercicios-UQ](https://github.com/DanielBarrientos727/Java-Ejercicios-UQ)**
 
 Ejercicios y prácticas de **Lógica de Programación y Java** desarrollados durante mi formación.
 
