@@ -11,6 +11,10 @@ Me enfoco en fortalecer mis bases de **programación, lógica, algoritmos y desa
   <img src="https://img.shields.io/badge/Java-Principal-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbarrientos-dev&layout=compact&langs_count=6&hide=html,css&theme=transparent" />
+</p>
+
 ---
 
 ### Sobre mí
