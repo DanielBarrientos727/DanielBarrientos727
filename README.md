@@ -2,11 +2,9 @@
 
 ### `DanielBarrientos727`
 
-Estudiante de **Ingeniería de Sistemas y Computación**, técnico en **Programación de Software** y estudiante de **Tecnología en Análisis y Desarrollo de Software**.
+Estudiante de **Ingeniería de Sistemas y Computación** y de **Tecnología en Análisis y Desarrollo de Software**, con formación técnica en programación.
 
-Mi formación está centrada en construir fundamentos sólidos de **programación, algoritmos, lógica computacional y desarrollo de software**. Me interesa entender cómo funcionan los sistemas desde abajo y convertir ese conocimiento en proyectos reales.
-
-Actualmente estoy fortaleciendo especialmente mi base en **Java**, mientras continúo explorando Python, JavaScript, SQL, sistemas Linux y otras tecnologías relacionadas con la computación.
+Este perfil reúne algunos de mis proyectos, ejercicios y experimentos mientras avanzo en mi formación en computación.
 
 <p align="center">
   <strong>Actualmente enfocado en</strong><br><br>
@@ -19,15 +17,18 @@ Actualmente estoy fortaleciendo especialmente mi base en **Java**, mientras cont
 </p>
 
 ---
+
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas y Computación y de Tecnología en Análisis y Desarrollo de Software, con formación previa en programación de software.
+Actualmente estudio **Ingeniería de Sistemas y Computación** y **Tecnología en Análisis y Desarrollo de Software**. También tengo formación técnica en programación.
 
-Trabajo principalmente en Fedora Linux y uso mi computadora como laboratorio para aprender, programar, experimentar y entender mejor los sistemas con los que trabajo.
+Uso principalmente **Fedora Linux** para estudiar, programar y experimentar. Me gusta entender cómo funcionan las cosas, desde el código hasta los sistemas que lo ejecutan.
 
-Actualmente estoy centrado en fortalecer mis bases de programación, especialmente Java, lógica, algoritmos y resolución de problemas. A largo plazo, mi interés se mueve hacia áreas como sistemas, inteligencia artificial, robótica, automática y electrónica.
+Ahora mismo estoy concentrado en fortalecer mis bases de **Java, lógica, algoritmos y resolución de problemas**, mientras sigo aprendiendo otras tecnologías relacionadas con la computación.
 
-No busco aprender tecnologías solo por acumularlas. Prefiero entender bien los fundamentos y construir sobre ellos poco a poco.
+A largo plazo me interesan especialmente los **sistemas, la inteligencia artificial, la robótica, la automática y la electrónica**.
+
+No me interesa aprender tecnologías solo por acumularlas. Prefiero entender bien los fundamentos y construir sobre ellos poco a poco.
 
 > Comprender la máquina antes de intentar construir la siguiente.
 
@@ -58,61 +59,53 @@ No busco aprender tecnologías solo por acumularlas. Prefiero entender bien los 
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 
-> Algunas de estas tecnologías forman parte de mi aprendizaje actual y no implican el mismo nivel de dominio en todas ellas.
+> Algunas de estas tecnologías forman parte de mi aprendizaje actual y no representan el mismo nivel de experiencia en todas ellas.
 
 ---
 
-## Proyecto actual
+## Proyectos y aprendizaje
 
 ### [Java-Ejercicios-UQ](https://github.com/DanielBarrientos727/Java-Ejercicios-UQ)
 
-Repositorio de ejercicios, prácticas y pequeños programas desarrollados durante mi formación en **Lógica de Programación y Java**.
+Ejercicios, prácticas y pequeños programas desarrollados durante mi formación en **Lógica de Programación y Java** en la Universidad del Quindío.
 
-El objetivo principal es reforzar:
+Aquí voy trabajando conceptos como sintaxis, tipos de datos, estructuras de control, métodos, estructuras de datos y programación orientada a objetos.
 
-* sintaxis y fundamentos de Java;
-* tipos de datos y operadores;
-* estructuras de control;
-* funciones y métodos;
-* estructuras de datos;
-* programación orientada a objetos;
-* resolución de problemas mediante código.
+### [Java-Tutoriales-Repaso](https://github.com/DanielBarrientos727/Java-Tutoriales-Repaso)
 
-Es, en esencia, un registro de aprendizaje: desde los primeros programas hasta ejercicios progresivamente más elaborados.
+Repositorio personal para repasar Java mediante ejercicios, ejemplos y apuntes organizados por temas.
+
+La idea es ir desde los fundamentos y la entrada de datos hasta temas como POO, excepciones, interfaces gráficas, archivos y bases de datos.
 
 ---
 
-## Ingeniería antes que colección de lenguajes
-
-Mi objetivo es construir una base que permita pasar de los fundamentos a problemas más complejos.
+## Cómo estudio
 
 ```text
-Lógica
+Tutorial
    ↓
-Algoritmos
+Entender
    ↓
-Programación
+Escribir código
    ↓
-Estructuras de datos
+Modificarlo
    ↓
-Sistemas
+Practicar
    ↓
-Proyectos
-   ↓
-Computación avanzada
+Repasar
 ```
 
-Me interesa especialmente la intersección entre **software, sistemas, electrónica, automatización, inteligencia artificial y ciencias de la computación**.
+Intento no quedarme solamente con ejemplos que funcionan. Me interesa modificar el código, romperlo, entender los errores y volver a construirlo.
 
 ---
 
 ## En construcción
 
-Este perfil representa un proceso de formación en curso.
+Este perfil forma parte de un proceso de aprendizaje que todavía está empezando.
 
-Habrá código que mejorar, proyectos experimentales, ideas que no funcionen y repositorios que probablemente evolucionen con el tiempo.
+Habrá proyectos pequeños, experimentos, código que necesite mejoras y algunas ideas que probablemente cambien con el tiempo.
 
-Eso también forma parte del aprendizaje.
+La intención es seguir construyendo una base sólida y, poco a poco, pasar de los ejercicios a proyectos más completos.
 
 > **Aprender los fundamentos primero. Construir después.**
 
