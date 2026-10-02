@@ -19,18 +19,17 @@ Actualmente estoy fortaleciendo especialmente mi base en **Java**, mientras cont
 </p>
 
 ---
-
 ## Sobre mí
 
-🎓 **Ingeniería de Sistemas y Computación**
-🛠️ **Técnico en Programación de Software**
-💻 **Tecnología en Análisis y Desarrollo de Software**
-🐧 **Fedora Linux** como entorno principal
-🧠 **Lógica, algoritmos y resolución de problemas**
-☕ **Java** como lenguaje principal de estudio
-🔧 Interés en software, sistemas, electrónica y computación
+Soy estudiante de Ingeniería de Sistemas y Computación y de Tecnología en Análisis y Desarrollo de Software, con formación previa en programación de software.
 
-Mi enfoque no es acumular tecnologías por acumulación. Prefiero aprender bien los fundamentos y construir sobre ellos.
+Trabajo principalmente en Fedora Linux y uso mi computadora como laboratorio para aprender, programar, experimentar y entender mejor los sistemas con los que trabajo.
+
+Actualmente estoy centrado en fortalecer mis bases de programación, especialmente Java, lógica, algoritmos y resolución de problemas. A largo plazo, mi interés se mueve hacia áreas como sistemas, inteligencia artificial, robótica, automática y electrónica.
+
+No busco aprender tecnologías solo por acumularlas. Prefiero entender bien los fundamentos y construir sobre ellos poco a poco.
+
+> Comprender la máquina antes de intentar construir la siguiente.
 
 ---
 
