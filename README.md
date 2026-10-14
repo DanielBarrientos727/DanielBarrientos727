@@ -89,7 +89,7 @@ Repositorio personal para repasar Java mediante ejercicios, ejemplos y apuntes o
 
 ---
 
-## Mis ♥ Distros favoritas de GNU/LINUX
+## Mis Distros favoritas de GNU/LINUX ♥ 
 
 Por aquí puedes ver las ditros de GNU/LINUX que por experiencia propia, son mis favoritas 🐧💞
 <table>
