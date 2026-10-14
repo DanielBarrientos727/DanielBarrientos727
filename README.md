@@ -89,10 +89,9 @@ Repositorio personal para repasar Java mediante ejercicios, ejemplos y apuntes o
 
 ---
 
-## I ♥ Linux distros
+## Mis ♥ Distros favoritas de GNU/LINUX
 
-I love Linux distributions, desktop environments, and the freedom to explore different ways of using my computer.
-
+Por aquí puedes ver las ditros de GNU/LINUX que por experiencia propia, son mis favoritas 🐧💞
 <table>
   <tr>
     <td align="center" width="50%">
@@ -125,7 +124,7 @@ I love Linux distributions, desktop environments, and the freedom to explore dif
 </table>
 
 <p align="center">
-  <sub>Linux is more than an operating system. It's a world to explore.</sub>
+  <sub>¡Sólo LINUX en está monda!</sub>
 </p>
 
 ---
