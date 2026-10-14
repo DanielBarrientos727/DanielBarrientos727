@@ -87,7 +87,6 @@ Trabajo conceptos como sintaxis, tipos de datos, estructuras de control, método
 
 Repositorio personal para repasar Java mediante ejercicios, ejemplos y apuntes organizados por temas.
 
-La idea es avanzar desde los fundamentos y la entrada de datos hasta temas como POO, excepciones, interfaces gráficas, archivos y bases de datos.
 ---
 
 ## I ♥ Linux distros
