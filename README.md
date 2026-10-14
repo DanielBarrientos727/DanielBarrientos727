@@ -88,37 +88,49 @@ Trabajo conceptos como sintaxis, tipos de datos, estructuras de control, método
 Repositorio personal para repasar Java mediante ejercicios, ejemplos y apuntes organizados por temas.
 
 La idea es avanzar desde los fundamentos y la entrada de datos hasta temas como POO, excepciones, interfaces gráficas, archivos y bases de datos.
-
 ---
 
-## Cómo estudio
+## I ♥ Linux distros
 
-```text
-Estudiar un concepto
-        ↓
-Entender cómo funciona
-        ↓
-Escribir código
-        ↓
-Modificarlo y experimentar
-        ↓
-Analizar los errores
-        ↓
-Practicar y repasar
-```
+I love Linux distributions, desktop environments, and the freedom to explore different ways of using my computer.
 
-Intento no quedarme solamente con ejemplos que funcionan. Me interesa modificar el código, entender los errores y volver a construirlo.
-
----
-
-## En construcción
-
-Este perfil forma parte de un proceso de aprendizaje que todavía está empezando.
-
-Habrá proyectos pequeños, experimentos, código que necesite mejoras e ideas que cambien con el tiempo. La intención es seguir construyendo una base sólida y pasar gradualmente de los ejercicios a proyectos más completos.
-
-> **Aprender los fundamentos primero. Construir después.**
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://en.wikipedia.org/wiki/Fedora_Linux">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Fedora_42_KDE_Plasma_Desktop_English.png" alt="Fedora KDE Plasma" width="100%" />
+        <br><strong>Fedora KDE Plasma</strong>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://en.wikipedia.org/wiki/OpenSUSE">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OpenSUSE_Leap_16.0_screenshot.webp/1280px-OpenSUSE_Leap_16.0_screenshot.webp.png" alt="openSUSE Leap KDE Plasma" width="100%" />
+        <br><strong>openSUSE</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://en.wikipedia.org/wiki/Q4OS">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Q4OS_5.5_TDE_default_desktop_-_English.png" alt="Q4OS Trinity Desktop" width="100%" />
+        <br><strong>Q4OS</strong>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://en.wikipedia.org/wiki/Linux_Mint">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/LinuxMint22-Wilma-English.png" alt="Linux Mint Cinnamon" width="100%" />
+        <br><strong>Linux Mint</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <sub>DanielBarrientos727 · Engineering, code & curiosity</sub>
+  <sub>Linux is more than an operating system. It's a world to explore.</sub>
+</p>
+
+---
+
+<p align="center">
+  <sub>DanielBarrientos727 · Amante de las ciencias, del cafe y del tux</sub>
 </p>
