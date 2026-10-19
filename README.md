@@ -63,17 +63,6 @@ Algunas de estas tecnologías forman parte de mi aprendizaje actual y no represe
 ---
 
 ## Proyectos
-
-### [EncuentraQ](https://github.com/DanielBarrientos727/encuentraq-web) · [Ver aplicación](https://danielbarrientos727.github.io/encuentraq-web/)
-
-Aplicación web orientada a la comunidad del Quindío para publicar y consultar reportes de **objetos perdidos y encontrados**.
-
-Incluye creación y gestión de reportes, búsqueda con filtros, favoritos, una interfaz adaptable a dispositivos móviles y soporte para instalarse como aplicación web progresiva (PWA).
-
-**Tecnologías:** React, TypeScript, Vite y Tailwind CSS.
-
-Actualmente utiliza almacenamiento local del navegador para conservar los datos. La sincronización entre usuarios y el almacenamiento en un servidor quedan como posibles mejoras futuras.
-
 ### [Java-Ejercicios-UQ](https://github.com/DanielBarrientos727/Java-Ejercicios-UQ)
 
 Ejercicios, prácticas y pequeños programas desarrollados durante mi formación en **Lógica de Programación y Java** en la Universidad del Quindío.
