@@ -59,19 +59,19 @@ No me interesa aprender tecnologías solo por acumularlas. Prefiero entender los
 </p>
 
 Algunas de estas tecnologías forman parte de mi aprendizaje actual y no representan el mismo nivel de experiencia en todas ellas.
-
 ---
 
 ## Proyectos
-### [Java-Ejercicios-UQ](https://github.com/DanielBarrientos727/Java-Ejercicios-UQ)
 
-Ejercicios, prácticas y pequeños programas desarrollados durante mi formación en **Lógica de Programación y Java** en la Universidad del Quindío.
+### [The SoundGarden v6.2](https://github.com/DanielBarrientos727/The-SoundGarden-v6.2)
 
-Trabajo conceptos como sintaxis, tipos de datos, estructuras de control, métodos, estructuras de datos y programación orientada a objetos.
+Proyecto de software desarrollado como parte de mi formación, con énfasis en programación y desarrollo de soluciones informáticas.
 
-### [Java-Tutoriales-Repaso](https://github.com/DanielBarrientos727/Java-Tutoriales-Repaso)
+### [Lógica de Programación Java — UQ](https://github.com/DanielBarrientos727/logica-programacion-java-uq)
 
-Repositorio personal para repasar Java mediante ejercicios, ejemplos y apuntes organizados por temas.
+Repositorio de ejercicios, talleres y prácticas de **Lógica de Programación y Java** desarrollados durante mi formación en Ingeniería de Sistemas y Computación en la Universidad del Quindío.
+
+Trabajo conceptos como sintaxis, tipos de datos, estructuras de control, métodos y resolución de problemas mediante programación estructurada.
 
 ---
 
