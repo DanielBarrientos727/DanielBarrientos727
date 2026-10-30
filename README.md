@@ -30,8 +30,6 @@ A largo plazo me interesan especialmente los **sistemas, la inteligencia artific
 
 No me interesa aprender tecnologías solo por acumularlas. Prefiero entender los fundamentos y construir sobre ellos poco a poco.
 
-> Comprender la máquina antes de intentar construir la siguiente.
-
 ---
 
 ## Tecnologías
