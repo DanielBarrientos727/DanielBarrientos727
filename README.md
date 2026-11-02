@@ -11,11 +11,6 @@ Aquí guardo mis ejercicios, proyectos y algunas cosas que voy probando mientras
   <img src="https://img.shields.io/badge/Java-Principal-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Fedora-Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarrientos727&layout=compact&langs_count=8&hide=html&theme=transparent" />
-</p>
-
 ---
 
 ## Sobre mí
