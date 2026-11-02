@@ -2,14 +2,14 @@
 
 ### `DanielBarrientos727`
 
-Estudiante de **Ingeniería de Sistemas y Computación** y de **Tecnología en Análisis y Desarrollo de Software**, con formación técnica en programación.
+Estudiante de **Ingeniería de Sistemas y Computación** y de **Tecnología en Análisis y Desarrollo de Software**. También tengo formación técnica en programación.
 
-Este perfil reúne mis proyectos, ejercicios y experimentos mientras avanzo en mi formación en computación.
+Aquí guardo mis ejercicios, proyectos y algunas cosas que voy probando mientras aprendo.
 
 <p align="center">
-  <strong>Actualmente enfocado en</strong><br><br>
+  <strong>Actualmente uso y estudio</strong><br><br>
   <img src="https://img.shields.io/badge/Java-Principal-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 </p>
 
 <p align="center">
@@ -20,21 +20,15 @@ Este perfil reúne mis proyectos, ejercicios y experimentos mientras avanzo en m
 
 ## Sobre mí
 
-Actualmente estudio **Ingeniería de Sistemas y Computación** y **Tecnología en Análisis y Desarrollo de Software**. También tengo formación técnica en programación.
+Estudio en la **Universidad del Quindío** y en el **SENA**.
 
-Uso principalmente **Fedora Linux** para estudiar, programar y experimentar. Me gusta entender cómo funcionan las cosas, desde el código hasta los sistemas que lo ejecutan.
+Me gusta la programación, Linux y entender cómo funcionan los computadores. También me interesan las matemáticas, la física, la electrónica y la relación entre el software y el hardware.
 
-Ahora mismo estoy concentrado en fortalecer mis bases de **Java, lógica, algoritmos y resolución de problemas**, mientras desarrollo proyectos y exploro otras tecnologías relacionadas con la computación.
-
-A largo plazo me interesan especialmente los **sistemas, la inteligencia artificial, la robótica, la automática y la electrónica**.
-
-No me interesa aprender tecnologías solo por acumularlas. Prefiero entender los fundamentos y construir sobre ellos poco a poco.
-
----
+Por ahora estoy dedicando bastante tiempo a **Java, lógica de programación y fundamentos de computación**.
 
 ## Tecnologías
 
-### Lenguajes y tecnologías que estoy estudiando o utilizando
+### Lenguajes y desarrollo
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -46,7 +40,7 @@ No me interesa aprender tecnologías solo por acumularlas. Prefiero entender los
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### Entorno y herramientas
+### Herramientas y entorno
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -56,50 +50,50 @@ No me interesa aprender tecnologías solo por acumularlas. Prefiero entender los
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 
-Algunas de estas tecnologías forman parte de mi aprendizaje actual y no representan el mismo nivel de experiencia en todas ellas.
+*No todas estas tecnologías tienen el mismo nivel de uso; algunas forman parte de mi aprendizaje.*
+
 ---
 
 ## Proyectos
 
 ### [The SoundGarden v6.2](https://github.com/DanielBarrientos727/The-SoundGarden-v6.2)
 
-Proyecto de software desarrollado como parte de mi formación, con énfasis en programación y desarrollo de soluciones informáticas.
+Proyecto de software desarrollado durante mi formación.
 
 ### [Lógica de Programación Java — UQ](https://github.com/DanielBarrientos727/logica-programacion-java-uq)
 
-Repositorio de ejercicios, talleres y prácticas de **Lógica de Programación y Java** desarrollados durante mi formación en Ingeniería de Sistemas y Computación en la Universidad del Quindío.
-
-Trabajo conceptos como sintaxis, tipos de datos, estructuras de control, métodos y resolución de problemas mediante programación estructurada.
+Ejercicios y talleres de Java realizados en Ingeniería de Sistemas y Computación en la Universidad del Quindío.
 
 ---
 
-## Mis Distros favoritas de GNU/LINUX ♥ 
+## Distribuciones Linux que me gustan
 
-Por aquí puedes ver las ditros de GNU/LINUX que por experiencia propia, son mis favoritas 🐧💞
+Algunas distribuciones que he probado y que me gustan, especialmente por sus entornos de escritorio y filosofía.
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://en.wikipedia.org/wiki/Fedora_Linux">
+      <a href="https://fedoraproject.org/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Fedora_42_KDE_Plasma_Desktop_English.png" alt="Fedora KDE Plasma" width="100%" />
         <br><strong>Fedora KDE Plasma</strong>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://en.wikipedia.org/wiki/OpenSUSE">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OpenSUSE_Leap_16.0_screenshot.webp/1280px-OpenSUSE_Leap_16.0_screenshot.webp.png" alt="openSUSE Leap KDE Plasma" width="100%" />
+      <a href="https://www.opensuse.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OpenSUSE_Leap_16.0_screenshot.webp/1280px-OpenSUSE_Leap_16.0_screenshot.webp.png" alt="openSUSE" width="100%" />
         <br><strong>openSUSE</strong>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://en.wikipedia.org/wiki/Q4OS">
+      <a href="https://q4os.org/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Q4OS_5.5_TDE_default_desktop_-_English.png" alt="Q4OS Trinity Desktop" width="100%" />
         <br><strong>Q4OS</strong>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://en.wikipedia.org/wiki/Linux_Mint">
+      <a href="https://linuxmint.com/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/LinuxMint22-Wilma-English.png" alt="Linux Mint Cinnamon" width="100%" />
         <br><strong>Linux Mint</strong>
       </a>
@@ -108,11 +102,11 @@ Por aquí puedes ver las ditros de GNU/LINUX que por experiencia propia, son mis
 </table>
 
 <p align="center">
-  <sub>¡Sólo LINUX en está monda!</sub>
+  <sub>¡Solo Linux en esta monda! 🐧</sub>
 </p>
 
 ---
 
 <p align="center">
-  <sub>DanielBarrientos727 · Amante de las ciencias, del cafe y del tux</sub>
+  <sub>DanielBarrientos727 · Ciencia, café y Linux.</sub>
 </p>
