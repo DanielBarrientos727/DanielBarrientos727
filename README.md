@@ -79,47 +79,6 @@ Ejercicios y talleres de Java realizados en Ingeniería de Sistemas y Computaci�
 
 ---
 
-## Distribuciones Linux que me gustan
-
-Algunas distribuciones que he probado y que me gustan, especialmente por sus entornos de escritorio y filosofía.
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://fedoraproject.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Fedora_42_KDE_Plasma_Desktop_English.png" alt="Fedora KDE Plasma" width="100%" />
-        <br><strong>Fedora KDE Plasma</strong>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.opensuse.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OpenSUSE_Leap_16.0_screenshot.webp/1280px-OpenSUSE_Leap_16.0_screenshot.webp.png" alt="openSUSE" width="100%" />
-        <br><strong>openSUSE</strong>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://q4os.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Q4OS_5.5_TDE_default_desktop_-_English.png" alt="Q4OS Trinity Desktop" width="100%" />
-        <br><strong>Q4OS</strong>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://linuxmint.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/LinuxMint22-Wilma-English.png" alt="Linux Mint Cinnamon" width="100%" />
-        <br><strong>Linux Mint</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <sub>¡Solo Linux en esta monda! 🐧</sub>
-</p>
-
----
-
-<p align="center">
-  <sub>DanielBarrientos727 · Ciencia, café y Linux.</sub>
+  <sub>DanielBarrientos727 · Amante del sudo </sub>
 </p>
