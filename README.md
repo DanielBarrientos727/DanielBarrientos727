@@ -49,6 +49,24 @@ Por ahora estoy dedicando bastante tiempo a **Java, lógica de programación y f
 
 ---
 
+## Actividad en GitHub
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=DanielBarrientos727&show_icons=true&theme=catppuccin_mocha&hide_border=true"
+    alt="Estadísticas de GitHub"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielBarrientos727&layout=compact&theme=catppuccin_mocha&hide_border=true"
+    alt="Lenguajes más utilizados"
+  />
+</p>
+
+---
+
 ## Proyectos
 
 ### [The SoundGarden v6.2](https://github.com/DanielBarrientos727/The-SoundGarden-v6.2)
